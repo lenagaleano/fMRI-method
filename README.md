@@ -7,48 +7,50 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Workshop on fMRI Analysis (PsyMSc4, Summer Semester 2025, Goethe University Frankfurt)
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+Welcome to our hands-on fMRI analysis workshop, designed for students in Psychology and related fields at Goethe University. In this workshop, you will learn the essential steps required to conduct fMRI research—from data acquisition and preprocessing to analysis—using MATLAB’s SPM toolbox. Our core philosophy is that a critical skill for a cognitive neuroscientist is the ability to assess the possibilities and limitations of fMRI experiments from a conceptual standpoint. To develop this insight, it’s essential to grasp both the fundamental principles of fMRI and the rationale behind the most common analysis techniques.
 
-</header>
+The workshop is organized into three full-day sessions (8 hours each). In each session, we will concentrate on a specific phase of the fMRI processing and analysis pipeline. Every session will begin with an in-depth discussion of the theory and logic underpinning that day’s focus, followed by extensive hands-on exercises to reinforce your learning. By the end of the workshop, you will be well-equipped with both the conceptual understanding and practical skills necessary to design, execute, and critically evaluate fMRI experiments.
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+## Theoretical Topics and Practical Sessions
 
-## Step 1: Enable GitHub Pages
+Our workshop will guide you through the entire fMRI analysis pipeline—from processing raw MR images to reporting group-level univariate results. We’ll also introduce common multivariate analysis techniques.
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+### Key Theoretical Topics:
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+- Basics of fMRI  
+- Preprocessing steps  
+- General Linear Models (GLM)  
+- Contrast analysis  
+- Group analysis and reporting  
+- Introduction to multivariate analysis  
 
-### :keyboard: Activity: Enable GitHub Pages
+### Hands-On Activities:
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+- Generating condition files from BIDS  
+- Running GLM with SPM  
+- Creating contrast maps  
+- Conducting group-level analysis  
+- Reporting results  
 
-<footer>
+### Resources & Software Installations:
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+We will use the following software during the workshop:
 
----
+-MATLAB (2018 or later)  
+-SPM12  
+-ITK-Snap (version 3.0 or later)  
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+### Data
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+All the data that we will use in this workshop can be downloaded from the links below. If you need help with accessing them, write to e.galeano-weber@dipf.de.
 
-</footer>
+#### Content-3t dataset
+Data at: https://openneuro.org/datasets/ds001497/versions/1.0.2  
+Original publication at: https://www.jneurosci.org/content/28/35/8765.short
+
+#### Process-specific dataset
+Data at: https://openneuro.org/datasets/ds000164/versions/00001  
+Publication at: https://pubmed.ncbi.nlm.nih.gov/25143543/
+
