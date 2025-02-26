@@ -7,11 +7,11 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Workshop on fMRI Analysis (PsyMSc4, Summer Semester 2025, Goethe University Frankfurt)
+# Workshop on fMRI Analysis (PsyMSc4, Goethe University Frankfurt)
 
 Welcome to our hands-on fMRI analysis workshop, designed for students in Psychology and related fields at Goethe University. In this workshop, you will learn the essential steps required to conduct fMRI research—from data acquisition and preprocessing to analysis—using MATLAB’s SPM toolbox. Our core philosophy is that a critical skill for a cognitive neuroscientist is the ability to assess the possibilities and limitations of fMRI experiments from a conceptual standpoint. To develop this insight, it’s essential to grasp both the fundamental principles of fMRI and the rationale behind the most common analysis techniques.
 
-The workshop is organized into three full-day sessions (8 hours each). In each session, we will concentrate on a specific phase of the fMRI processing and analysis pipeline. Every session will begin with an in-depth discussion of the theory and logic underpinning that day’s focus, followed by extensive hands-on exercises to reinforce your learning. By the end of the workshop, you will be well-equipped with both the conceptual understanding and practical skills necessary to design, execute, and critically evaluate fMRI experiments.
+The workshop is organized into three full-day sessions (8 hours each, "Blockseminar"). In each session, we will concentrate on a specific phase of the fMRI processing and analysis pipeline. Every session will begin with an in-depth discussion of the theory and logic underpinning that day’s focus, followed by extensive hands-on exercises to reinforce your learning. By the end of the workshop, you will be well-equipped with both the conceptual understanding and practical skills necessary to design, execute, and critically evaluate fMRI experiments.
 
 ## Theoretical Topics and Practical Sessions
 
