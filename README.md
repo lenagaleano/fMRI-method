@@ -26,13 +26,6 @@ Our workshop will guide you through the entire fMRI analysis pipeline—from pro
 - Group analysis and reporting  
 - Introduction to multivariate analysis  
 
-### Hands-On Activities:
-
-- Generating condition files from BIDS  
-- Running GLM with SPM  
-- Creating contrast maps  
-- Conducting group-level analysis  
-- Reporting results  
 
 ### Resources & Software Installations:
 
